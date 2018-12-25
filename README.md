@@ -9,6 +9,6 @@ then make it as a meme by adding text on the top and buttom of the picture and S
 
 
 + Presenting View Controllers
-+- Segue
-+- Delegates
++ Segue
++ Delegates
 +

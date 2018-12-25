@@ -7,8 +7,6 @@ then make it as a meme by adding text on the top and buttom of the picture and S
 
 # Mememe Project works with :
 
-
-+ Presenting View Controllers
 + Segue
 + Delegates
-+
++ ViewControllers
